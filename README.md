@@ -1,11 +1,13 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/ascendantaditya/Pavithra)
-  ![GitHub stars](https://img.shields.io/github/stars/ascendantaditya/Pavithra?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/ascendantaditya/Pavithra?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/ascendantaditya/pavithras-pfolio
+)
+  ![GitHub stars](https://img.shields.io/github/stars/ascendantaditya/pavithras-pfolio
+?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ascendantaditya/pavithras-pfolio
+?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/ascendantaditya?style=social)](https://twitter.com/intent/follow?screen_name=ascendantaditya)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/lD-hxm19ncs?style=social)](https://youtu.be/lD-hxm19ncs)
-
+  
   <br />
   <br />
 
@@ -13,7 +15,7 @@
 
   Pavithra is a fully responsive personal portfolio, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://ascendantaditya.github.io/Pavithra-pfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://ascendantaditya.github.io/pavithras-pfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
