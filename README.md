@@ -2,10 +2,7 @@
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/ascendantaditya/pavithras-pfolio
 )
-  ![GitHub stars](https://img.shields.io/github/stars/ascendantaditya/pavithras-pfolio
-?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/ascendantaditya/pavithras-pfolio
-?style=social)
+
   [![Twitter Follow](https://img.shields.io/twitter/follow/ascendantaditya?style=social)](https://twitter.com/intent/follow?screen_name=ascendantaditya)
   
   <br />
